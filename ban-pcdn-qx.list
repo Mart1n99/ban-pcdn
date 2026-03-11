@@ -1,36 +1,36 @@
 # Ban-PCDN for Quantumult X
 
-- HOST-SUFFIX,gjfzpt.cn,reject  
-- HOST-SUFFIX,szbdyd.com,reject
-- HOST-SUFFIX,bsccdn.net,reject
-- HOST-SUFFIX,pkoplink.com,reject
-- HOST-SUFFIX,saxysec.com,reject
-- HOST-SUFFIX,uhabo.com,reject
-- HOST-SUFFIX,xycdn.com,reject
-- HOST-SUFFIX,kuiniuca.com,reject
-- HOST-SUFFIX,onethingpcs.com,reject
-- HOST-SUFFIX,jomodns.cn,reject
-- HOST-SUFFIX,p2p.huya.com,reject
-- HOST-SUFFIX,stun.douyucdn.cn,reject
-- HOST-SUFFIX,stun.hitv.com,reject
-- HOST-SUFFIX,stun1.douyucdn.cn,reject
-- HOST-SUFFIX,mcdn.bilivideo.cn,reject
-- HOST-SUFFIX,tpa-hcdn.iqiyi.com,reject
-- HOST-SUFFIX,pcdn.xmcdn.com,reject
-- HOST-SUFFIX,pcdn.yximgs.com,reject
-- HOST-SUFFIX,dyp2p-ali.douyucdn.cn,reject
-- HOST-SUFFIX,dyp2p-hw.douyucdn.cn,reject
-- HOST-SUFFIX,p2p-ali.douyucdn.cn,reject
-- HOST-SUFFIX,p2p.qq.com,reject
-- HOST-SUFFIX,p2pchunk-hw.douyucdn.cn,reject
-- HOST-SUFFIX,p2pchunk-table.douyucdn.cn,reject
-- HOST-SUFFIX,p2pchunk-ws.douyucdn.cn,reject
-- HOST-SUFFIX,p2perrorlog.douyucdn.cn,reject
-- HOST-SUFFIX,p2plive-ali.douyucdn.cn,reject
-- HOST-SUFFIX,p2plive-ws.douyucdn.cn,reject
-- HOST-SUFFIX,p2plog.douyucdn.cn,reject
-- HOST-SUFFIX,p2ptun.qq.com,reject
-- HOST-SUFFIX,p2pupdate.gamedl.qq.com,reject
-- HOST-SUFFIX,p2pupgrade.gamedl.qq.com,reject
-- HOST-SUFFIX,p2pvod-ws.douyucdn.cn,reject
-- HOST-SUFFIX,mountaintoys.cn,reject
+HOST-SUFFIX,gjfzpt.cn,reject  
+HOST-SUFFIX,szbdyd.com,reject
+HOST-SUFFIX,bsccdn.net,reject
+HOST-SUFFIX,pkoplink.com,reject
+HOST-SUFFIX,saxysec.com,reject
+HOST-SUFFIX,uhabo.com,reject
+HOST-SUFFIX,xycdn.com,reject
+HOST-SUFFIX,kuiniuca.com,reject
+HOST-SUFFIX,onethingpcs.com,reject
+HOST-SUFFIX,jomodns.cn,reject
+HOST-SUFFIX,p2p.huya.com,reject
+HOST-SUFFIX,stun.douyucdn.cn,reject
+HOST-SUFFIX,stun.hitv.com,reject
+HOST-SUFFIX,stun1.douyucdn.cn,reject
+HOST-SUFFIX,mcdn.bilivideo.cn,reject
+HOST-SUFFIX,tpa-hcdn.iqiyi.com,reject
+HOST-SUFFIX,pcdn.xmcdn.com,reject
+HOST-SUFFIX,pcdn.yximgs.com,reject
+HOST-SUFFIX,dyp2p-ali.douyucdn.cn,reject
+HOST-SUFFIX,dyp2p-hw.douyucdn.cn,reject
+HOST-SUFFIX,p2p-ali.douyucdn.cn,reject
+HOST-SUFFIX,p2p.qq.com,reject
+HOST-SUFFIX,p2pchunk-hw.douyucdn.cn,reject
+HOST-SUFFIX,p2pchunk-table.douyucdn.cn,reject
+HOST-SUFFIX,p2pchunk-ws.douyucdn.cn,reject
+HOST-SUFFIX,p2perrorlog.douyucdn.cn,reject
+HOST-SUFFIX,p2plive-ali.douyucdn.cn,reject
+HOST-SUFFIX,p2plive-ws.douyucdn.cn,reject
+HOST-SUFFIX,p2plog.douyucdn.cn,reject
+HOST-SUFFIX,p2ptun.qq.com,reject
+HOST-SUFFIX,p2pupdate.gamedl.qq.com,reject
+HOST-SUFFIX,p2pupgrade.gamedl.qq.com,reject
+HOST-SUFFIX,p2pvod-ws.douyucdn.cn,reject
+HOST-SUFFIX,mountaintoys.cn,reject
